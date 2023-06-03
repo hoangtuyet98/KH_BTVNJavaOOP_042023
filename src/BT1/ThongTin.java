@@ -6,6 +6,6 @@ public class ThongTin {
         System.out.println(nv.getName());
         System.out.println(nv.getAge());
         System.out.println(nv.getAdress());
-        
+
     }
 }
